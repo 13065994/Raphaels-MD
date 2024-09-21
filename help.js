@@ -2,23 +2,23 @@ const prefix = global.prefa
   const pushname = m.pushName || "No Name"
 
 const helpmenu=` 
-「 *Raphaels BOT* 」
+「 *Gerald BOT* 」
 ♡ۣۜۜ፝͜͜͡͡✿➤ *INFO BOT*
-  ♡ۣۜۜ፝͜͜͡͡✿➤ Name: Raphael BOT
+  ♡ۣۜۜ፝͜͜͡͡✿➤ Name: GerAld Chatbot
   ♡ۣۜۜ፝͜͜͡͡✿➤ Version: 1.0
   ♡ۣۜۜ፝͜͜͡͡✿➤ Type: VPS
-  ♡ۣۜۜ፝͜͜͡͡✿➤ 0wner: Isaiah-ilom
-  ♡ۣۜۜ፝͜͜͡͡✿➤ wa.me/2348180146181
+  ♡ۣۜۜ፝͜͜͡͡✿➤ 0wner: Gerald cool 🙂
+  ♡ۣۜۜ፝͜͜͡͡✿➤ wa.me/23408121662697
   ♡ۣۜۜ፝͜͜͡͡✿➤ Prefix: 「  ${prefix}  」
  ♡ۣۜۜ፝͜͜͡͡✿➤ Total cmd: 51
  ♡ۣۜۜ፝͜͜͡͡✿➤Menu Type:Menu
  ----------------------------------
  
  ----------------------------------
-	🍁 *Coding* 🍁
+	🍁〘 Coding* 🍁
 ⌬${prefix}gitclone
 ⌬${prefix}gdrive
-🍁 *General Commands* 🍁
+🍁〘 General Commands 〙🍁
 ⌬${prefix}menu
 ⌬${prefix}list
 ⌬${prefix}hi
@@ -26,16 +26,16 @@ const helpmenu=`
 ⌬${prefix}Kish
 ⌬${prefix}rules
 ⌬${prefix}info
-🍁 *Owner Commands* 🍁
+🍁〘 Owner Commands 〙🍁
 ⌬${prefix}join
 ⌬${prefix}bctext
 ⌬${prefix}creategc
 ⌬${prefix}leavegc
-🍁 *Search Commands* 🍁
+🍁〘 Search Commands 〙🍁
 ⌬${prefix}weather
 ⌬${prefix}coffee
 ⌬${prefix}google
-🍁 *Group Commands* 🍁
+🍁〘 Group Commands 〙🍁
 ⌬${prefix}antilink
 ⌬${prefix}kick
 ⌬${prefix}add
@@ -49,7 +49,7 @@ const helpmenu=`
 ⌬${prefix}demote
 ⌬${prefix}setname
 ⌬${prefix}setgcpp
-🍁 *Fun Commands* 🍁
+🍁〘 Fun Commands 〙🍁
 ⌬${prefix}handsomecheck
 ⌬${prefix}beautifulcheck
 ⌬${prefix}ship
@@ -59,13 +59,13 @@ const helpmenu=`
 ⌬${prefix}fact
 ⌬${prefix}couple
 ⌬${prefix}diffine
-🍁 *Weeb Commands* 🍁
+🍁〘 Weeb Commands 〙🍁
 ⌬${prefix}crossplay
 ⌬${prefix}neko
 ⌬${prefix}loli
 ⌬${prefix}wallpaper
 ⌬${prefix}waifu
-🍁 *Other Commands* 🍁
+🍁〘 Other Commands 〙🍁
 ⌬${prefix}iguser
 ⌬${prefix}sticker
 ⌬${prefix}steal
@@ -77,10 +77,10 @@ const helpmenu=`
 
 🌹𝒎𝒐𝒓𝒆 𝒄𝒐𝒎𝒎𝒂𝒏𝒅𝒔 𝒄𝒐𝒎𝒊𝒏𝒈 𝒔𝒐𝒐𝒏
 
-『 Raphael-Md 』
-   Based on: Raphael, 
-   created by : Isaiah-ilom
-   @Raphael scholar inc 
+『 gerald-bot 』
+   Based on: bailey, 
+   created by : gerald
+   @Mateo team 
 `
 module.exports = menu
 
